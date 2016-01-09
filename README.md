@@ -1,0 +1,2 @@
+# thuan
+bai tap lon
